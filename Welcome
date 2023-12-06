@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizzahunyee - Experimental Physics, Chemistry, and Mathematics</title>
+    <style>
+        /* Your styles here */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Pizzahunyee</h1>
+        <p>An Experimental Website for Physics, Chemistry, and Mathematics</p>
+    </header>
+    <main>
+        <section>
+            <h2>Welcome to Pizzahunyee</h2>
+            <p>This experimental website is dedicated to exploring new formulas, derivations, and concepts in the fields of physics, chemistry, and mathematics.</p>
+            <!-- Add more content as needed -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Pizzahunyee. All rights reserved.</p>
+    </footer>
+</body>
+</html>
